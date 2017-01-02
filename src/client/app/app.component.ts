@@ -5,7 +5,7 @@ import {Component} from '@angular/core';
  */
 @Component({
 
-  selector: 'sd-app',
+  selector: 'tm-app',
   templateUrl: 'app.component.html',
   styleUrls: ['app.component.css']
 })

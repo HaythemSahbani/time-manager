@@ -1,7 +1,7 @@
 {
   "name": "Time-Manager",
   "version": "1.0.0",
-  "description": "Angular2  Front End App for work time managing",
+  "description": "Angular 2 App for work time managing",
   "scripts": {
     "build": "webpack --progress",
     "watch": "npm run build -- --watch",
@@ -104,7 +104,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HaythemSahbani/Time-Manager-FE.git"
+    "url": "git+https://github.com/HaythemSahbani/time-manager.git"
   },
   "bugs": {
     "url": "todo"

@@ -49,3 +49,6 @@ tmp
 
 # Webstorm adds js files when compiling typscript
 /src/**/*.js
+
+# yarn
+yarn.lock
