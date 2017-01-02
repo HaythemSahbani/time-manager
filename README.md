@@ -1,4 +1,4 @@
-## Diwa Sweetness Front End App
+## A work time manager app
 
 A simple Angular 2 based website
 
